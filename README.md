@@ -1,0 +1,1 @@
+This project builds a custom BERT-based neural network to classify AI-generated vs. human-written text. Using advanced preprocessing, POS tagging, and feature extraction, the model achieves 94% accuracy on the AI vs Human Text dataset. The work highlights risks of misinformation and advances AI detection research.
